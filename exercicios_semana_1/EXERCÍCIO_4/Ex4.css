@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid rgb(206, 196, 196);
+  }
+
+  th,td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+    border: 2px solid rgb(206, 196, 196);
+  }
+
+  th {
+    background-color: red;
+    color: white;
+  }
+  .esquerdo{
+      background-color: #ebe832;
+  }
+  .direito{
+      background-color: #eeb029;
+  }
+
+  .no-border {
+    border: none;
+  }
+
+  .center {
+    text-align: center;
+  }

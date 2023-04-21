@@ -1,0 +1,14 @@
+body{
+    margin: 20PX 0 0 0; 
+ }
+ .box {
+   height: 100px;
+   border:2pt solid black;
+ }
+ 
+ .half-box {
+
+   height: 50px;
+   border:2pt solid black;
+ 
+ }
