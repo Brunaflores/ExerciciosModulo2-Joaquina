@@ -1,0 +1,1 @@
+Meu entendimento sobre esta atividade foi de criar cartões no backlog no trello de todas as atividades de exercícios da semana 2. Após isso gerenciei estes cartões conforme status. Exemplo: o Exercício 3 já havia sido finalizado pois executei em aula, sendo assim eu movi ele para a coluna de concluído e inclui uma descrição informando isso. 
